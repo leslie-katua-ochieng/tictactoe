@@ -9,10 +9,6 @@ Table of contents
    * [Getting Started](#getting-started)
    * [Prerequisites](#prerequisites)
    * [Setting up the project](#setting-up-the-project)
-   * [Issues](#issues)
-   * [Contributing](#contributing)
-   * [Code of Conduct](#code-of-conduct)
-   * [License](#license)
 <!--te-->
 
 ## About The Project
