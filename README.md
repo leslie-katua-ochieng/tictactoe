@@ -34,7 +34,7 @@ There are no special requirements to play this game apart from having a Web Brow
 
 1. Clone the repo
 ```sh
-git clone 
+git clone https://github.com/leslie-katua-ochieng/tictactoe.git
 ```
 2. Change the directory
 ```sh
